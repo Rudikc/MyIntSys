@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="fatique-dialog:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/fatique_dialog_jar</output-path>
-    <root id="archive" name="fatique-dialog.jar">
-      <element id="module-output" name="fatique-dialog" />
-    </root>
-  </artifact>
-</component>
