@@ -1,4 +1,4 @@
-package org.fredy.pacman;
+package pac;
 
 public interface Game {
     void gameOver();
