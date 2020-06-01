@@ -1,23 +1,20 @@
 male(bill).
-female(mary).
-
-female(shelley).
 male(john).
-female(lisa).
-
 male(fred).
 male(sam).
-
 male(tom).
 male(alex).
 male(drake).
 male(elon).
+male(xae-12).
+
+female(mary).
+female(shelley).
+female(lisa).
 female(grims).
 female(emilly).
 female(tamy).
 female(fiona).
-
-male(xae-12).
 
 parent(bill, shelley).
 parent(mary, shelley).

@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e032afc-5b98-4435-a14d-27059a25c196" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/GhostAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/GhostAI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/MazeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/MazeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/MovementEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/MovementEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/NodeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/NodeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/PacManGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/PacManGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3Pacman-game/src/main/java/org/fredy/pacman/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/3Pacman-game/src/main/java/pac/UI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +66,7 @@
       <updated>1591020937776</updated>
       <workItem from="1591020939006" duration="78000" />
       <workItem from="1591021143656" duration="184000" />
-      <workItem from="1591022889008" duration="705000" />
+      <workItem from="1591022889008" duration="1287000" />
     </task>
     <servers />
   </component>
