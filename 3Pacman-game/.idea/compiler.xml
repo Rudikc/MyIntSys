@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="3Pacman-game" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="3Pacman-game" target="1.5" />
+      <module name="3Pacman-game.main" target="1.8" />
+      <module name="3Pacman-game.test" target="1.8" />
+      <module name="pacman.main" target="1.8" />
+      <module name="pacman.test" target="1.8" />
+      <module name="pacman_main" target="1.8" />
+      <module name="pacman_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
